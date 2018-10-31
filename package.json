@@ -1,0 +1,15 @@
+{
+  "name": "cycle-demo-webserver",
+  "version": "1.0.0",
+  "description": "A webserver that serves a Cycle-branded page that dumps environment variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Petrichor, Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
